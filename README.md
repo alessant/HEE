@@ -25,8 +25,6 @@ Image. IEEE Trans. on Cybernetics 49, 7 (2019), 2406–2419
 - `Rodriguez` J.A. Rodrìguez. 2002. On the Laplacian Eigenvalues and Metric Parameters of Hypergraphs. Linear and Multilinear Algebra 50, 1 (2002), 1–14.
 - `Saito` S. Saito, D. P. Mandic, and H. Suzuki. 2018. Hypergraph p-Laplacian: A Differential Geometry View. Proceedings of the AAAI Conference on Artificial
 Intelligence 32, 1 (2018)
-- `HGE`
-- `SMHC` 
 
 
 ## Requirements
